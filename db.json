@@ -13,27 +13,21 @@
       "reminder": true
     },
     {
-      "id": "4",
-      "text": "dddd",
-      "day": "May 7th at 12:30pm",
+      "id": "f7db",
+      "text": "blah",
+      "day": "asdfasdf",
       "reminder": false
     },
     {
-      "id": "7",
-      "text": "Test 123",
-      "day": "May 6th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": "8",
-      "text": "Test 8josh",
-      "day": "May 6th at 2:30pm",
+      "id": "d8ec",
+      "text": "asdfasdf",
+      "day": "agag",
       "reminder": false
     },
     {
-      "id": "9",
-      "text": "9999",
-      "day": "May 6th at 2:30pm",
+      "id": "8388",
+      "text": "gg",
+      "day": "gg",
       "reminder": false
     }
   ]
