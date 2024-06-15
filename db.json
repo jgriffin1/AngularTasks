@@ -25,9 +25,15 @@
       "reminder": false
     },
     {
-      "id": "8388",
-      "text": "gg",
-      "day": "gg",
+      "id": "32d5",
+      "text": "test",
+      "day": "asdf",
+      "reminder": true
+    },
+    {
+      "id": "b6c7",
+      "text": "test",
+      "day": "ttt",
       "reminder": false
     }
   ]
